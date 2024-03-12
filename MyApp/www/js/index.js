@@ -11,3 +11,6 @@ function saveInfo() {
 
     document.getElementById("displayInfo").innerHTML = info;
 }
+
+
+
